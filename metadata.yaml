@@ -1,0 +1,35 @@
+_repo: Odysseia_54200
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sjöström, Axel Gabriel
+    alias: Sjostrom, Axel Gabriel
+    birthdate: 1794
+    deathdate: 1846
+    gutenberg_agent_id: '47759'
+    url: http://www.gutenberg.org/2009/agents/47759
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2017-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54200'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Greek -- Translations into Swedish'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Poetry'
+- !lcc 'PA'
+- GITenberg
+title: Odysseia
+url: http://www.gutenberg.org/ebooks/54200
